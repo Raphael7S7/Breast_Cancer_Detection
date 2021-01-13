@@ -15,4 +15,4 @@ les commandes suivantes dans votre terminal :
             pip install streamlit
             run streamlit PATH
             
-            
+  ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)          
