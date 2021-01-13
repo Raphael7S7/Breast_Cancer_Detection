@@ -12,7 +12,7 @@ modèles populaires en classification avec amélioration de leurs paramètres da
 Enfin une application d'aide à la décision est disponible au format streamlit. Pour la déployer veuillez rentrer
 les commandes suivantes dans votre terminal : 
 
-            pip install streamlit
+            pip install streamlit 
             streamlit run https://github.com/Raphael7S7/Breast_Cancer_Detection/blob/main/Cancer_Sein.py
             
             
