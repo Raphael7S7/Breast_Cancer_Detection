@@ -15,4 +15,6 @@ les commandes suivantes dans votre terminal :
             pip install streamlit
             streamlit run https://github.com/Raphael7S7/Breast_Cancer_Detection/blob/main/Cancer_Sein.py
             
+            (Vous avez besoin de la dernière version de python pour lire l'application pip3 --version puis entrer)
+            
   ![alt text](https://github.com/Raphael7S7/Breast_Cancer_Detection/blob/main/Screenshot%202021-01-13%20at%2016.23.04.png)          
