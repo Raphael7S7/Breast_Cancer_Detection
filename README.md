@@ -13,6 +13,6 @@ Enfin une application d'aide à la décision est disponible au format streamlit.
 les commandes suivantes dans votre terminal : 
 
             pip install streamlit
-            run streamlit PATH
+            run streamlit https://github.com/Raphael7S7/Breast_Cancer_Detection/blob/main/Cancer_Sein.py
             
   ![alt text](https://github.com/Raphael7S7/Breast_Cancer_Detection/blob/main/Screenshot%202021-01-13%20at%2016.23.04.png)          
