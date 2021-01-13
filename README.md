@@ -5,7 +5,7 @@ Cette analyse se base sur les données de detection du cancer du sein et provien
 Elles comportent une serie de mesure effectuée sur 569 radiographies mamaires labélisées.
 L'objectif est de construire un modèle capable de reconnaitre le type de cancer sur une radio non labélisée.
 
-Le notebook comporte une analyse détaillé des données avec l'utilisation de tests statistique pour 
+Le notebook comporte une analyse détaillée des données avec l'utilisation de tests statistiques pour 
 déterminer quelle variable influence le plus le type de cancer. On trouve également une comparaison des différents
 modèles populaires en classification avec amélioration de leurs paramètres dans le but de bien classer les observations.
 
